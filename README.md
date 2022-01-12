@@ -6,7 +6,7 @@
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=Pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-orange?style=flat-square&logo=Matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-lime?style=flat-square&logo=Matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/keras-red?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-impotant?style=flat-square&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white"/>
   
