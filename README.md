@@ -4,7 +4,7 @@ Hi there 👋 I'm Data Scientist using Python, MySQL, R
 
 ## Languages and Tools:  
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/PowerBI/PowerBI.png"/>  
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Power BI/Power BI.png"/>  <img src="https://img.shields.io/badge/Power BI-yellow?style=flat-square&logo=Power BI&logoColor=white"/>  
 
 
 ## Librarys:
