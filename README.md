@@ -7,5 +7,5 @@ Hi there 👋 I'm Data Scientist using Python, MySQL, R
 
 
 ## Librarys:
-<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=Pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Matplotlib-whitegreen?style=flat-square&logo=matplotlib&logoColor=white"/>  <img src="https://img.shields.io/badge/Scikit_Learn-#f7931e?style=flat-square&logo=Scikit_Learn&logoColor=white"/>  <img src="https://img.shields.io/badge/keras-red?style=flat-square&logo=keras&logoColor=white"/>  <img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=Pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/Matplotlib-whitegreen?style=flat-square&logo=matplotlib&logoColor=white"/>  <img src="https://img.shields.io/badge/SkLearn-#f7931e?style=flat-square&logo=SkLearn&logoColor=white"/>  <img src="https://img.shields.io/badge/keras-red?style=flat-square&logo=keras&logoColor=white"/>  <img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white"/>
   
