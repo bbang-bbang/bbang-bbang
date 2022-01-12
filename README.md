@@ -3,7 +3,7 @@
 **Languages and Tools:**  
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>   
 
-**** Librarys: ****
+**Librarys:**
 <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=Pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-whitegreen?style=flat-square&logo=Matplotlib&logoColor=white"/>
