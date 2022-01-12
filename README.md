@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
-
+I'm Data Scientist of future
 
 **Languages and Tools:**  
 
